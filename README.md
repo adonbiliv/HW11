@@ -2,4 +2,4 @@
 made a change to readme
 
 ## myBranch
-Made a change in myBranch
+Made a change in myBranch.
